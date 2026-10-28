@@ -34,9 +34,15 @@ Python, Pandas, Scikit-learn, Matplotlib y Google Colab.
 
 ## Cómo ejecutarlo
 
-1. Abre el notebook en Google Colab.
-2. Sube al entorno de Colab la base de conocimiento (`.xlsx`).
-3. Ejecuta las celdas en orden.
+No necesitas instalar nada. Solo necesitas una cuenta de Google.
+
+1. Descarga el archivo del notebook desde este repositorio.
+2. Entra a [Google Colab](https://colab.research.google.com) y sube el notebook (Archivo → Subir cuaderno).
+3. En el menú superior elige **Entorno de ejecución → Ejecutar todo** y espera a que terminen todas las celdas.
+4. Baja hasta el final, a la sección **7. Prototipo funcional consolidado**, y usa la **interfaz de demostración tipo chat** (opcional, pensada para presentaciones).
+5. Escribe una consulta en el chat, por ejemplo: *"¿Cuantas horas de extensión por año necesito?"*, y el asistente responderá o la derivará a una persona.
+
+> **Importante:** debes ejecutar todo el notebook antes de probar el chat; si no, la interfaz no funcionará.
 
 ## Autora
 
